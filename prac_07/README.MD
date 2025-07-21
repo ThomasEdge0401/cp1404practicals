@@ -1,4 +1,4 @@
-# CP1404 Practicals
+# CP1404 Practicals 
 
 ## About This Repository  
 This repository contains the practical work for CP1404 at JCU. It includes weekly programming exercises focused on improving coding skills, understanding programming patterns, and writing clean, professional code.
